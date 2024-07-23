@@ -1,6 +1,6 @@
 import { FC, useState } from "react";
-import Button from "./Components/Button";
-import Input from "./Components/Input";
+import Button from "./Button";
+import Input from "./Input";
 
 type listProps = {
     doList : string[],
